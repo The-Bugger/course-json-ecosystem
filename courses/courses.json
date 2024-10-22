@@ -59,4 +59,13 @@
     "module_number": 6,
     "certification": "paid"
   }
-]
+{
+    "id": 7,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "c programming",
+    "link": "https://www.youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "N/A"
+  }
